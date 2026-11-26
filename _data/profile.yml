@@ -1,19 +1,19 @@
-primary_name: "Your Name"
+primary_name: "Steffan Thomas"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Steffan Thomas"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Early Career Researcher
+- name: Durham University
+  logo: #/assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "steffan.thomas@durham.ac.uk"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# linkedin: your-linked-in-id
+#gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+#github: your_github_id
+#twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: steffan-thomas-a3a2b5315
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
